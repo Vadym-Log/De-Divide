@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\bin\Debug\netcoreapp3.1\de_divide.exe
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\bin\Debug\netcoreapp3.1\de_divide.deps.json
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\bin\Debug\netcoreapp3.1\de_divide.runtimeconfig.json
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\bin\Debug\netcoreapp3.1\de_divide.runtimeconfig.dev.json
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\bin\Debug\netcoreapp3.1\de_divide.dll
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\bin\Debug\netcoreapp3.1\de_divide.pdb
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\obj\Debug\netcoreapp3.1\de_divide.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\obj\Debug\netcoreapp3.1\de_divide.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\obj\Debug\netcoreapp3.1\de_divide.AssemblyInfo.cs
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\obj\Debug\netcoreapp3.1\de_divide.dll
+C:\Users\User\Desktop\ITEA\Test De-Divide\de_divide\de_divide\obj\Debug\netcoreapp3.1\de_divide.pdb
